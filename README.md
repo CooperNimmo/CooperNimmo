@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Cooper and I'm a student at Bethel School of Technology
 
 <!--
 **CooperNimmo/CooperNimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
